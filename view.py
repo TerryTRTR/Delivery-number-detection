@@ -12,6 +12,10 @@ max_aspect_ratio = 2.0  # 最大长宽比
 min_area = 11500        # 最小面积要求
 max_area = 40000        # 最大面积要求
 
+# 定义目标尺寸，例如 (目标宽度, 目标高度)
+target_width = 330
+target_height = 200
+
 # 读取图像
 img = cv2.imread('image.png')
 if img is None:
@@ -58,12 +62,15 @@ for contour in contours:
             if height > width:
                  cropped_image = cv2.rotate(cropped_image, cv2.ROTATE_90_CLOCKWISE)
 
+             # 拉伸图像到指定尺寸
+            resized_image = cv2.resize(cropped_image, (target_width, target_height))
+
              # 绘制绿色边框    
             cv2.drawContours(img, [box], 0, (0, 255, 0), 2)  
             
             # 保存截取的图像
             output_path = os.path.join(output_dir, f'cropped_image_{counter}.png')
-            cv2.imwrite(output_path, cropped_image )
+            cv2.imwrite(output_path, resized_image )
             counter += 1
 
 # 显示结果
@@ -76,6 +83,5 @@ cv2.destroyAllWindows()  # 关闭所有窗口
      problem:
         1. 识别绿色框时存在部分问题，对于白色快递盒，识别不出来标签。
         2. 识别的标签大小通过手动定义，不同角度和远近会导致问题。
-        
      
 '''
