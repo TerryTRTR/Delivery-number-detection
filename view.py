@@ -12,10 +12,6 @@ max_aspect_ratio = 2.0  # 最大长宽比
 min_area = 11500        # 最小面积要求
 max_area = 40000        # 最大面积要求
 
-# 设定目标图像尺寸
-target_width = 220  # 目标宽度
-target_height = 200  # 目标高度
-
 # 读取图像
 img = cv2.imread('image.png')
 if img is None:
@@ -48,25 +44,26 @@ for contour in contours:
         
         # 计算长和宽
         width, height = min_rect[1]
+
         aspect_ratio = max(width, height) / min(width, height)  # 计算长宽比
         area = width * height  # 计算矩形面积
         
         # 检查长宽比和面积是否在要求范围内
         if (min_aspect_ratio <= aspect_ratio <= max_aspect_ratio) and (min_area <= area <= max_area):
-            # 绘制绿色边框
-            cv2.drawContours(img, [box], 0, (0, 255, 0), 2)  # 使用绿色边框
-            
-            # 进行透视变换
+
+            width, height = height, width
             dst_points = np.array([[0, 0], [width, 0], [width, height], [0, height]], dtype='float32')
             matrix = cv2.getPerspectiveTransform(box.astype('float32'), dst_points)
             cropped_image = cv2.warpPerspective(img, matrix, (int(width), int(height)))
+            if height > width:
+                 cropped_image = cv2.rotate(cropped_image, cv2.ROTATE_90_CLOCKWISE)
 
-            # 拉伸到目标尺寸
-            resized_image = cv2.resize(cropped_image, (target_width, target_height))
-
+             # 绘制绿色边框    
+            cv2.drawContours(img, [box], 0, (0, 255, 0), 2)  
+            
             # 保存截取的图像
             output_path = os.path.join(output_dir, f'cropped_image_{counter}.png')
-            cv2.imwrite(output_path, resized_image)
+            cv2.imwrite(output_path, cropped_image )
             counter += 1
 
 # 显示结果
