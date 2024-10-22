@@ -19,7 +19,7 @@ for filename in os.listdir('output_images'):
 
         # 进行二值化处理，将图像转换为黑白
         _, thresh = cv2.threshold(img, 140, 255, cv2.THRESH_BINARY_INV)
-        thresh = cv2.GaussianBlur(thresh, (1, 1), 0)
+        thresh = cv2.GaussianBlur(thresh, (1, 1), 0)#进行高斯膨胀处理
 
         # 创建结构元素并进行膨胀处理
         kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))  # 使用适当的结构元素
@@ -37,7 +37,7 @@ for filename in os.listdir('output_images'):
             elif angle == 270:
                 rotated_image = cv2.rotate(dilated_black, cv2.ROTATE_90_COUNTERCLOCKWISE)
             else:
-                rotated_image = dilated_black
+                rotated_image = dilated_black#主作者唐完了，没做判断
             
             # 使用 Tesseract 识别数字
             recognized_text = pytesseract.image_to_string(rotated_image, config='--psm 6 -c tessedit_char_whitelist=0123456789')
