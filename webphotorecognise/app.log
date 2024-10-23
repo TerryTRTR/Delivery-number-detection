@@ -1,0 +1,1025 @@
+2024-10-23 21:02:53,929 - werkzeug - WARNING -  * Debugger is active!
+2024-10-23 21:02:53,933 - werkzeug - INFO -  * Debugger PIN: 708-944-141
+2024-10-23 21:02:57,191 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:02:57] "GET / HTTP/1.1" 200 -
+2024-10-23 21:03:01,023 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_69pq_4_k_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_69pq_4_k', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:01,120 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__05ed9nm_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__05ed9nm', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:01,198 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:01,198 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:01,198 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:01,199 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_whcsyhk9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_whcsyhk9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:01,285 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gie_f9hi_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gie_f9hi', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:01,362 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:01,362 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:01,362 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:01,364 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_wobu0mlq_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_wobu0mlq', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:01,440 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tx99i13c_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tx99i13c', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:01,522 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:01,522 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:01,522 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:01,524 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3imvzjzi_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3imvzjzi', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:01,615 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0o3weu6c_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0o3weu6c', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:01,703 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:01,703 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:01,703 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:01,707 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_k9uxu65q_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_k9uxu65q', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:01,801 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9vpcuho2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9vpcuho2', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:01,907 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:03:01,907 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 47]
+2024-10-23 21:03:01,907 - root - DEBUG - Average confidence: 47.0
+2024-10-23 21:03:01,909 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x9w3r8mh_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x9w3r8mh', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:01,998 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qvkqrk3a_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qvkqrk3a', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:02,084 - root - DEBUG - Recognized text: 3050
+
+2024-10-23 21:03:02,084 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:03:02,084 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:03:02,088 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_93dy1kog_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_93dy1kog', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:02,171 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_iuts85lo_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_iuts85lo', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:02,255 - root - DEBUG - Recognized text: 3052
+
+2024-10-23 21:03:02,255 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:03:02,255 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:03:02,257 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0bnb2m5x_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0bnb2m5x', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:02,373 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_of0w1ao6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_of0w1ao6', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:02,474 - root - DEBUG - Recognized text: 1
+7
+
+2024-10-23 21:03:02,474 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 18, -1, 0]
+2024-10-23 21:03:02,475 - root - DEBUG - Average confidence: 9.0
+2024-10-23 21:03:02,479 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9lgpn7dr_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9lgpn7dr', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:02,558 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9b9axcrj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9b9axcrj', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:02,637 - root - DEBUG - Recognized text: 3065
+
+2024-10-23 21:03:02,637 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:03:02,637 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:03:02,639 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ahxwtj_3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ahxwtj_3', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:02,732 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_26mvomxl_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_26mvomxl', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:02,815 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:02,815 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:02,815 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:02,819 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_u0crcrap_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_u0crcrap', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:02,896 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_znxy6lrc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_znxy6lrc', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:02,972 - root - DEBUG - Recognized text: 3024
+
+2024-10-23 21:03:02,972 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:03:02,972 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:03:02,974 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_weqwb4qt_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_weqwb4qt', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,048 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_og4to752_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_og4to752', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:03,120 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:03,120 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:03,121 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:03,125 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_atio832t_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_atio832t', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,204 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_r0hmm42s_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_r0hmm42s', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:03,281 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:03,281 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:03,281 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:03,282 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_imm4bbb8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_imm4bbb8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,359 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c7jnk2eb_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c7jnk2eb', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:03,432 - root - DEBUG - Recognized text: 3048
+
+2024-10-23 21:03:03,432 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:03:03,432 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:03:03,436 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c9w19c2e_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c9w19c2e', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,513 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_y9su8hxf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_y9su8hxf', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:03,592 - root - DEBUG - Recognized text: 3063
+
+2024-10-23 21:03:03,592 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:03:03,592 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:03:03,594 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5ibzfcpx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5ibzfcpx', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,673 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sk9oift3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sk9oift3', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:03,748 - root - DEBUG - Recognized text: 4
+
+2024-10-23 21:03:03,748 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:03:03,748 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:03:03,752 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8cn71y27_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8cn71y27', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,828 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_v60pgss0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_v60pgss0', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:03,903 - root - DEBUG - Recognized text: 3051
+
+2024-10-23 21:03:03,903 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:03:03,903 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:03:03,905 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p4djaiut_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p4djaiut', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:03,993 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2chfk_tn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2chfk_tn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:04,079 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:04,079 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:04,079 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:04,082 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7_ajr9e8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7_ajr9e8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:04,168 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_w8vq6kdf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_w8vq6kdf', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:04,244 - root - DEBUG - Recognized text: 3018
+
+2024-10-23 21:03:04,244 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:03:04,244 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:03:04,246 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_soyh_xie_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_soyh_xie', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:04,331 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_801pl06h_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_801pl06h', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:04,412 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:04,412 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:04,412 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:04,417 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__h6jk5yj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__h6jk5yj', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:04,507 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_fvozp34i_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_fvozp34i', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:04,596 - root - DEBUG - Recognized text: 726
+
+2024-10-23 21:03:04,596 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:03:04,596 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:03:04,598 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x8qkn245_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x8qkn245', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:04,677 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_fn0q92ew_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_fn0q92ew', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:04,754 - root - DEBUG - Recognized text: 3049
+
+2024-10-23 21:03:04,754 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:03:04,755 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:03:04,759 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mrjb17rw_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mrjb17rw', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:04,836 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_agwzgx_h_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_agwzgx_h', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:04,911 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:04,912 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:04,912 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:04,913 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vdqhku4l_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vdqhku4l', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:04,990 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_d7j_aegk_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_d7j_aegk', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:05,063 - root - DEBUG - Recognized text: 3017
+
+2024-10-23 21:03:05,064 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:03:05,064 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:03:05,068 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9knkj2ih_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9knkj2ih', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:05,144 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_nj5o5ks3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_nj5o5ks3', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:05,218 - root - DEBUG - Recognized text: 3053
+
+2024-10-23 21:03:05,218 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 94]
+2024-10-23 21:03:05,218 - root - DEBUG - Average confidence: 94.0
+2024-10-23 21:03:05,220 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_m58gq1_l_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_m58gq1_l', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:05,314 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yjfe62ck_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yjfe62ck', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:05,403 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:05,403 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:05,403 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:05,407 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yv6g6meo_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yv6g6meo', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:05,485 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yflmf_2n_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yflmf_2n', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:05,560 - root - DEBUG - Recognized text: 3047
+
+2024-10-23 21:03:05,560 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 89]
+2024-10-23 21:03:05,560 - root - DEBUG - Average confidence: 89.0
+2024-10-23 21:03:05,562 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_re38a19d_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_re38a19d', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:05,643 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1y86unbc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1y86unbc', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:05,715 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:05,715 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:05,715 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:05,719 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p301gkf5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p301gkf5', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:05,798 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ntdx57ov_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ntdx57ov', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:05,871 - root - DEBUG - Recognized text: 3070
+
+2024-10-23 21:03:05,871 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:03:05,871 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:03:05,873 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rez6b7ly_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rez6b7ly', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:05,951 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8clgwm_l_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8clgwm_l', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,026 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:06,026 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:06,026 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:06,030 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ype2pl6__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ype2pl6_', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:06,109 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_06xktlau_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_06xktlau', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,190 - root - DEBUG - Recognized text: 3022
+
+2024-10-23 21:03:06,190 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 81]
+2024-10-23 21:03:06,190 - root - DEBUG - Average confidence: 81.0
+2024-10-23 21:03:06,192 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xub_vmnv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xub_vmnv', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:06,269 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hlzaqim__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hlzaqim_', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,343 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:06,343 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:06,344 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:06,348 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cu5zaxsa_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cu5zaxsa', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:06,427 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_siyv9uxy_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_siyv9uxy', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,502 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:06,502 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:06,502 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:06,503 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_exrrh69a_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_exrrh69a', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:06,580 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_wdjt36bh_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_wdjt36bh', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,656 - root - DEBUG - Recognized text: 9064
+
+2024-10-23 21:03:06,656 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 71]
+2024-10-23 21:03:06,656 - root - DEBUG - Average confidence: 71.0
+2024-10-23 21:03:06,661 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_29mydm71_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_29mydm71', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:06,739 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bkcvbg_d_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bkcvbg_d', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,824 - root - DEBUG - Recognized text: 
+2024-10-23 21:03:06,824 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:03:06,824 - root - DEBUG - Average confidence: 0
+2024-10-23 21:03:06,826 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9_o8fdhv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9_o8fdhv', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:03:06,903 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7pvvhzvx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7pvvhzvx', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:03:06,978 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:03:06,979 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 23]
+2024-10-23 21:03:06,979 - root - DEBUG - Average confidence: 23.0
+2024-10-23 21:03:06,983 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:03:06] "POST /upload HTTP/1.1" 200 -
+2024-10-23 21:05:02,390 - werkzeug - INFO -  * Detected change in 'd:\\vscode\\python_code\\webphotorecognise\\process.py', reloading
+2024-10-23 21:05:02,901 - werkzeug - WARNING -  * Debugger is active!
+2024-10-23 21:05:02,903 - werkzeug - INFO -  * Debugger PIN: 708-944-141
+2024-10-23 21:05:06,271 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0d21hp9y_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0d21hp9y', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:06,375 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1flaye5t_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1flaye5t', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:06,454 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:06,454 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:06,454 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:06,455 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lwh825td_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lwh825td', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:06,530 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kyu9redg_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kyu9redg', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:06,603 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:06,603 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:06,603 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:06,605 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jbrw6s7e_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jbrw6s7e', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:06,684 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_20o9lqda_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_20o9lqda', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:06,757 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:06,757 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:06,757 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:06,758 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ee1is18u_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ee1is18u', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:06,836 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_huqmav5j_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_huqmav5j', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:06,920 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:06,920 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:06,920 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:06,923 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_04t0oglm_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_04t0oglm', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:07,018 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6xx77nqo_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6xx77nqo', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:07,117 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:05:07,117 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 47]
+2024-10-23 21:05:07,117 - root - DEBUG - Average confidence: 47.0
+2024-10-23 21:05:07,118 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_227a5296_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_227a5296', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:07,209 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xeqhicaf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xeqhicaf', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:07,298 - root - DEBUG - Recognized text: 3050
+
+2024-10-23 21:05:07,298 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:07,298 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:07,300 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cbcdi77n_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cbcdi77n', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:07,391 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0apv29n2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0apv29n2', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:07,478 - root - DEBUG - Recognized text: 3052
+
+2024-10-23 21:05:07,478 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:05:07,478 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:05:07,480 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rl9_67kv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rl9_67kv', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:07,589 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_q0nucx50_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_q0nucx50', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:07,691 - root - DEBUG - Recognized text: 1
+7
+
+2024-10-23 21:05:07,691 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 18, -1, 0]
+2024-10-23 21:05:07,691 - root - DEBUG - Average confidence: 9.0
+2024-10-23 21:05:07,693 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_u692k9wg_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_u692k9wg', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:07,776 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_y078zs5__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_y078zs5_', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:07,854 - root - DEBUG - Recognized text: 3065
+
+2024-10-23 21:05:07,854 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:07,854 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:07,855 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6wuo0of9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6wuo0of9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:07,943 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lnpp0i_v_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lnpp0i_v', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,025 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:08,025 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:08,025 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:08,027 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5lk8vaqn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5lk8vaqn', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:08,108 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rh_ylokp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rh_ylokp', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,192 - root - DEBUG - Recognized text: 3024
+
+2024-10-23 21:05:08,192 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:05:08,192 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:05:08,193 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0lg5y_2q_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0lg5y_2q', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:08,272 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4ohovu0m_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4ohovu0m', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,348 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:08,348 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:08,348 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:08,350 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gsw93mk8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gsw93mk8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:08,428 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6r9rw_f2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6r9rw_f2', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,507 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:08,507 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:08,507 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:08,508 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6g64d_1u_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6g64d_1u', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:08,585 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_eksjfd5b_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_eksjfd5b', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,661 - root - DEBUG - Recognized text: 3048
+
+2024-10-23 21:05:08,661 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:05:08,661 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:05:08,663 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_s5cpfmp5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_s5cpfmp5', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:08,742 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_r466gw38_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_r466gw38', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,814 - root - DEBUG - Recognized text: 3063
+
+2024-10-23 21:05:08,814 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:08,814 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:08,815 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kmpavr4y_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kmpavr4y', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:08,896 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0d_hj303_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0d_hj303', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:08,972 - root - DEBUG - Recognized text: 4
+
+2024-10-23 21:05:08,972 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:05:08,972 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:05:08,975 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t517fa9q_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t517fa9q', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:09,054 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bnxxfq70_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bnxxfq70', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:09,129 - root - DEBUG - Recognized text: 3051
+
+2024-10-23 21:05:09,129 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:05:09,129 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:05:09,130 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_41wulkq3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_41wulkq3', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:09,216 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qpjepksv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qpjepksv', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:09,305 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:09,305 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:09,305 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:09,308 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p6tg_qj5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p6tg_qj5', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:09,384 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rna55pzl_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rna55pzl', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:09,430 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:05:09] "GET / HTTP/1.1" 200 -
+2024-10-23 21:05:09,477 - root - DEBUG - Recognized text: 3018
+
+2024-10-23 21:05:09,477 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:09,477 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:09,478 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0ejpjnch_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0ejpjnch', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:09,581 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vdratsnn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vdratsnn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:09,673 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:09,673 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:09,673 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:09,675 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1mrogfa2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1mrogfa2', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:09,766 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qen7in26_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qen7in26', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:09,857 - root - DEBUG - Recognized text: 726
+
+2024-10-23 21:05:09,857 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:05:09,857 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:05:09,858 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_q4fyk8hu_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_q4fyk8hu', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:09,952 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6v83n1e5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6v83n1e5', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:10,039 - root - DEBUG - Recognized text: 3049
+
+2024-10-23 21:05:10,039 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:05:10,039 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:05:10,042 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zl2kndp9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zl2kndp9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:10,143 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zb8vde13_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zb8vde13', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:10,217 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:10,217 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:10,217 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:10,218 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_noajy417_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_noajy417', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:10,295 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_fq9tqctx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_fq9tqctx', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:10,373 - root - DEBUG - Recognized text: 3017
+
+2024-10-23 21:05:10,373 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:05:10,373 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:05:10,375 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6r301656_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6r301656', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:10,480 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5inv_ot8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5inv_ot8', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:10,570 - root - DEBUG - Recognized text: 3053
+
+2024-10-23 21:05:10,570 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 94]
+2024-10-23 21:05:10,571 - root - DEBUG - Average confidence: 94.0
+2024-10-23 21:05:10,572 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ngmtfdl2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ngmtfdl2', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:10,688 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8uci00t0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8uci00t0', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:10,782 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:10,782 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:10,782 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:10,785 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_97s16xdi_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_97s16xdi', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:10,864 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rswznp5p_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rswznp5p', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:10,946 - root - DEBUG - Recognized text: 3047
+
+2024-10-23 21:05:10,946 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 89]
+2024-10-23 21:05:10,946 - root - DEBUG - Average confidence: 89.0
+2024-10-23 21:05:10,947 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1jjdaw46_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1jjdaw46', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,025 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hzaf4348_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hzaf4348', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:11,105 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:11,105 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:11,105 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:11,108 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_27hs4q19_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_27hs4q19', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,187 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0dc41uoj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0dc41uoj', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:11,266 - root - DEBUG - Recognized text: 3070
+
+2024-10-23 21:05:11,266 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:05:11,266 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:05:11,267 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xlw9s1qm_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xlw9s1qm', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,343 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5amcp_k9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5amcp_k9', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:11,418 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:11,418 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:11,418 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:11,421 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_di_1t9sg_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_di_1t9sg', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,499 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6xo92fmp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6xo92fmp', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:11,575 - root - DEBUG - Recognized text: 3022
+
+2024-10-23 21:05:11,575 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 81]
+2024-10-23 21:05:11,575 - root - DEBUG - Average confidence: 81.0
+2024-10-23 21:05:11,576 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8oog3k1y_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8oog3k1y', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,655 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__ryn71f__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__ryn71f_', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:11,726 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:11,726 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:11,726 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:11,729 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_udk_d12k_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_udk_d12k', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,806 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5aglemf6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5aglemf6', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:11,880 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:11,881 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:11,881 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:11,882 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_emxpidmo_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_emxpidmo', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:11,956 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_oin6q7tr_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_oin6q7tr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:12,028 - root - DEBUG - Recognized text: 9064
+
+2024-10-23 21:05:12,028 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 71]
+2024-10-23 21:05:12,028 - root - DEBUG - Average confidence: 71.0
+2024-10-23 21:05:12,029 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1kr776be_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1kr776be', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:12,105 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_du91cspn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_du91cspn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:12,176 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:12,176 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:12,176 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:12,177 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ms6ufq_a_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ms6ufq_a', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:12,255 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9wjzo86p_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9wjzo86p', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:12,334 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:05:12,334 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 23]
+2024-10-23 21:05:12,334 - root - DEBUG - Average confidence: 23.0
+2024-10-23 21:05:12,337 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:05:12] "POST /upload HTTP/1.1" 200 -
+2024-10-23 21:05:14,025 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_nxj6dmzr_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_nxj6dmzr', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:14,110 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_51t5o46u_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_51t5o46u', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:14,194 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:14,194 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:14,194 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:14,195 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vt3ms2_o_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vt3ms2_o', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:14,284 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7dvtoq3f_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7dvtoq3f', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:14,359 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:14,359 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:14,359 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:14,361 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9yg494sk_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9yg494sk', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:14,438 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_f_v1y29d_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_f_v1y29d', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:14,520 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:14,520 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:14,520 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:14,521 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xwn12dyj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xwn12dyj', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:14,608 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_leyij2_x_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_leyij2_x', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:14,686 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:14,686 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:14,686 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:14,689 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cn5eqart_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cn5eqart', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:14,775 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5ib26zdv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5ib26zdv', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:14,857 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:05:14,857 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 47]
+2024-10-23 21:05:14,857 - root - DEBUG - Average confidence: 47.0
+2024-10-23 21:05:14,858 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_67r2jj85_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_67r2jj85', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:14,934 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ew3wp6l5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ew3wp6l5', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,008 - root - DEBUG - Recognized text: 3050
+
+2024-10-23 21:05:15,008 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:15,008 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:15,010 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xyf7uzdz_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xyf7uzdz', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:15,089 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_r50afkxa_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_r50afkxa', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,165 - root - DEBUG - Recognized text: 3052
+
+2024-10-23 21:05:15,165 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:05:15,165 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:05:15,166 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_218qist7_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_218qist7', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:15,273 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ck8m0g1l_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ck8m0g1l', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,375 - root - DEBUG - Recognized text: 1
+7
+
+2024-10-23 21:05:15,376 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 18, -1, 0]
+2024-10-23 21:05:15,376 - root - DEBUG - Average confidence: 9.0
+2024-10-23 21:05:15,378 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ejkvr4d__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ejkvr4d_', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:15,458 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8b0f39ta_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8b0f39ta', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,532 - root - DEBUG - Recognized text: 3065
+
+2024-10-23 21:05:15,532 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:15,532 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:15,533 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cg55fdot_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cg55fdot', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:15,618 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jhj25gfz_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jhj25gfz', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,700 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:15,700 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:15,700 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:15,702 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c_c2r82f_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c_c2r82f', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:15,778 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_e2mbsgde_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_e2mbsgde', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,848 - root - DEBUG - Recognized text: 3024
+
+2024-10-23 21:05:15,848 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:05:15,848 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:05:15,849 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_nd9bfxfp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_nd9bfxfp', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:15,924 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_osorwykn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_osorwykn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:15,993 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:15,993 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:15,993 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:15,995 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xih5sghb_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xih5sghb', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,072 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_af83vq1x_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_af83vq1x', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:16,147 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:16,147 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:16,147 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:16,148 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ps19o121_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ps19o121', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,222 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_59zozf4m_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_59zozf4m', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:16,297 - root - DEBUG - Recognized text: 3048
+
+2024-10-23 21:05:16,297 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:05:16,297 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:05:16,299 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mfs1fx79_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mfs1fx79', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,375 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7aof3k1o_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7aof3k1o', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:16,448 - root - DEBUG - Recognized text: 3063
+
+2024-10-23 21:05:16,448 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:16,448 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:16,449 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2tpgjr8c_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2tpgjr8c', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,523 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9y5kg8vg_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9y5kg8vg', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:16,600 - root - DEBUG - Recognized text: 4
+
+2024-10-23 21:05:16,600 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:05:16,600 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:05:16,602 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_n8duwgiu_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_n8duwgiu', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,677 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1zs1xuik_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1zs1xuik', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:16,752 - root - DEBUG - Recognized text: 3051
+
+2024-10-23 21:05:16,752 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:05:16,752 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:05:16,753 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_b7w33o0e_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_b7w33o0e', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,837 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ffiwlknm_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ffiwlknm', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:16,919 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:16,919 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:16,919 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:16,920 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rv81619b_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rv81619b', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:16,996 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__hes47oa_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__hes47oa', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:17,072 - root - DEBUG - Recognized text: 3018
+
+2024-10-23 21:05:17,072 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:05:17,072 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:05:17,073 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hcp6hsvw_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hcp6hsvw', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:17,155 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_otf0_8_c_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_otf0_8_c', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:17,234 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:17,234 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:17,234 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:17,236 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_n5bdh4dj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_n5bdh4dj', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:17,322 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6mtw36pe_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6mtw36pe', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:17,407 - root - DEBUG - Recognized text: 726
+
+2024-10-23 21:05:17,407 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:05:17,407 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:05:17,408 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vcqhyprf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vcqhyprf', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:17,483 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ewuxzz0w_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ewuxzz0w', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:17,556 - root - DEBUG - Recognized text: 3049
+
+2024-10-23 21:05:17,556 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:05:17,556 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:05:17,559 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_crtcs4ug_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_crtcs4ug', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:17,633 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dwpoue_z_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dwpoue_z', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:17,709 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:17,709 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:17,709 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:17,710 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9fm_8qlj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9fm_8qlj', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:17,784 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_peujph9o_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_peujph9o', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:17,858 - root - DEBUG - Recognized text: 3017
+
+2024-10-23 21:05:17,858 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:05:17,858 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:05:17,860 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5epzuj0f_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5epzuj0f', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:17,937 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xwe2d2fo_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xwe2d2fo', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,009 - root - DEBUG - Recognized text: 3053
+
+2024-10-23 21:05:18,009 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 94]
+2024-10-23 21:05:18,009 - root - DEBUG - Average confidence: 94.0
+2024-10-23 21:05:18,010 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pqydthv8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pqydthv8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:18,099 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_os0wzsqs_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_os0wzsqs', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,188 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:18,188 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:18,188 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:18,190 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4xamlg0u_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4xamlg0u', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:18,264 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vn7bw_ul_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vn7bw_ul', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,339 - root - DEBUG - Recognized text: 3047
+
+2024-10-23 21:05:18,339 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 89]
+2024-10-23 21:05:18,339 - root - DEBUG - Average confidence: 89.0
+2024-10-23 21:05:18,340 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cwe0608q_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cwe0608q', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:18,412 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dvkatdhy_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dvkatdhy', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,481 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:18,481 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:18,481 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:18,484 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jlwn5ux6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jlwn5ux6', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:18,559 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ta4kh999_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ta4kh999', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,632 - root - DEBUG - Recognized text: 3070
+
+2024-10-23 21:05:18,632 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:05:18,632 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:05:18,633 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_40vhd0v4_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_40vhd0v4', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:18,709 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ykfd__o0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ykfd__o0', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,781 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:18,781 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:18,781 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:18,783 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vscw6my8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vscw6my8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:18,860 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kl18rdq2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kl18rdq2', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:18,934 - root - DEBUG - Recognized text: 3022
+
+2024-10-23 21:05:18,934 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 81]
+2024-10-23 21:05:18,934 - root - DEBUG - Average confidence: 81.0
+2024-10-23 21:05:18,935 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_wkrpyobl_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_wkrpyobl', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:19,009 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_moape3w9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_moape3w9', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:19,083 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:19,083 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:19,083 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:19,085 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mrmyee5p_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mrmyee5p', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:19,162 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zbf5u_yx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zbf5u_yx', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:19,235 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:19,235 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:19,236 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:19,236 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__57_m8x0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__57_m8x0', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:19,310 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tia2k8rf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tia2k8rf', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:19,384 - root - DEBUG - Recognized text: 9064
+
+2024-10-23 21:05:19,384 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 71]
+2024-10-23 21:05:19,384 - root - DEBUG - Average confidence: 71.0
+2024-10-23 21:05:19,387 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jn_qwo7s_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jn_qwo7s', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:19,459 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t2xcx94y_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t2xcx94y', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:19,529 - root - DEBUG - Recognized text: 
+2024-10-23 21:05:19,529 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:05:19,529 - root - DEBUG - Average confidence: 0
+2024-10-23 21:05:19,530 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_k3dqff6t_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_k3dqff6t', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:05:19,609 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_om30hhby_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_om30hhby', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:05:19,683 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:05:19,683 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 23]
+2024-10-23 21:05:19,683 - root - DEBUG - Average confidence: 23.0
+2024-10-23 21:05:19,684 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:05:19] "POST /upload HTTP/1.1" 200 -
+2024-10-23 21:06:43,253 - werkzeug - INFO -  * Detected change in 'd:\\vscode\\python_code\\webphotorecognise\\app.py', reloading
+2024-10-23 21:06:43,801 - werkzeug - WARNING -  * Debugger is active!
+2024-10-23 21:06:43,805 - werkzeug - INFO -  * Debugger PIN: 708-944-141
+2024-10-23 21:06:49,849 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:06:49] "GET / HTTP/1.1" 200 -
+2024-10-23 21:06:50,453 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:06:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-23 21:06:55,150 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dn1rrcp4_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dn1rrcp4', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:55,252 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qymbtcpv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qymbtcpv', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:55,333 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:55,333 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:55,333 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:55,334 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2k595pbt_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2k595pbt', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:55,416 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_k5ry2bql_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_k5ry2bql', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:55,490 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:55,490 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:55,490 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:55,494 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rx57e7_y_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rx57e7_y', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:55,567 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_a2ycim3a_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_a2ycim3a', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:55,644 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:55,644 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:55,644 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:55,646 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bnal2wr__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bnal2wr_', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:55,739 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_psiczacb_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_psiczacb', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:55,832 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:55,832 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:55,832 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:55,836 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5mspj9e0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5mspj9e0', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:55,942 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_95sabxud_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_95sabxud', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:56,032 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:06:56,032 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 47]
+2024-10-23 21:06:56,033 - root - DEBUG - Average confidence: 47.0
+2024-10-23 21:06:56,034 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_prikmoek_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_prikmoek', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:56,116 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lj3ikppg_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lj3ikppg', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:56,196 - root - DEBUG - Recognized text: 3050
+
+2024-10-23 21:06:56,196 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:06:56,196 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:06:56,201 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ybql8su6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ybql8su6', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:56,284 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bz0034_6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bz0034_6', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:56,362 - root - DEBUG - Recognized text: 3052
+
+2024-10-23 21:06:56,362 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:06:56,362 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:06:56,364 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tn7a5khr_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tn7a5khr', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:56,472 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lvo1c827_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lvo1c827', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:56,573 - root - DEBUG - Recognized text: 1
+7
+
+2024-10-23 21:06:56,573 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 18, -1, 0]
+2024-10-23 21:06:56,573 - root - DEBUG - Average confidence: 9.0
+2024-10-23 21:06:56,576 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__do374qi_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__do374qi', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:56,653 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qr8ksore_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qr8ksore', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:56,729 - root - DEBUG - Recognized text: 3065
+
+2024-10-23 21:06:56,729 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:06:56,729 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:06:56,731 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_uhv_zvnw_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_uhv_zvnw', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:56,813 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_w4eot8kn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_w4eot8kn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:56,900 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:56,900 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:56,900 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:56,904 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qk7ga_8z_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qk7ga_8z', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:56,980 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gebim367_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gebim367', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,056 - root - DEBUG - Recognized text: 3024
+
+2024-10-23 21:06:57,056 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:06:57,057 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:06:57,058 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_g6uhh934_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_g6uhh934', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:57,134 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3_cy3wxy_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3_cy3wxy', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,211 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:57,211 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:57,211 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:57,215 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sxug8ri6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sxug8ri6', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:57,297 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bi4srl2r_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bi4srl2r', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,375 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:57,375 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:57,375 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:57,377 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bc60jdb1_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bc60jdb1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:57,456 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qs_x_5th_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qs_x_5th', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,531 - root - DEBUG - Recognized text: 3048
+
+2024-10-23 21:06:57,531 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:06:57,531 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:06:57,534 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x3f8au3r_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x3f8au3r', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:57,613 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__bywpu5y_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess__bywpu5y', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,687 - root - DEBUG - Recognized text: 3063
+
+2024-10-23 21:06:57,687 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:06:57,687 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:06:57,689 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_n15btl8g_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_n15btl8g', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:57,768 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_io0p1fu0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_io0p1fu0', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,844 - root - DEBUG - Recognized text: 4
+
+2024-10-23 21:06:57,844 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:06:57,844 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:06:57,848 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vjxph6g9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_vjxph6g9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:57,925 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_088zmix0_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_088zmix0', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:57,999 - root - DEBUG - Recognized text: 3051
+
+2024-10-23 21:06:58,000 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:06:58,000 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:06:58,001 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2jndiiir_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2jndiiir', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:58,090 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pamj1muv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pamj1muv', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:58,175 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:58,175 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:58,175 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:58,179 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0xqs6elc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0xqs6elc', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:58,254 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rro8dy4o_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rro8dy4o', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:58,330 - root - DEBUG - Recognized text: 3018
+
+2024-10-23 21:06:58,330 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:06:58,330 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:06:58,332 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tn74l183_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tn74l183', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:58,413 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2z0hpetf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2z0hpetf', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:58,493 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:58,493 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:58,493 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:58,497 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qkb_evb9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qkb_evb9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:58,585 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yg1ncp82_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yg1ncp82', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:58,672 - root - DEBUG - Recognized text: 726
+
+2024-10-23 21:06:58,672 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:06:58,672 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:06:58,674 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rx3a3esj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rx3a3esj', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:58,751 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x2bp2ezx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_x2bp2ezx', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:58,825 - root - DEBUG - Recognized text: 3049
+
+2024-10-23 21:06:58,825 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:06:58,825 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:06:58,829 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yr8hdh8g_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yr8hdh8g', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:58,911 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2a938ory_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2a938ory', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:59,001 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:59,001 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:59,001 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:59,003 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9yjybrr3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9yjybrr3', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:59,092 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3n6nx77k_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3n6nx77k', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:59,178 - root - DEBUG - Recognized text: 3017
+
+2024-10-23 21:06:59,178 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:06:59,178 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:06:59,183 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ppay_vrc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ppay_vrc', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:59,274 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cy52g7ew_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cy52g7ew', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:59,359 - root - DEBUG - Recognized text: 3053
+
+2024-10-23 21:06:59,359 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 94]
+2024-10-23 21:06:59,359 - root - DEBUG - Average confidence: 94.0
+2024-10-23 21:06:59,361 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_j0zbhcq9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_j0zbhcq9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:59,468 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_v9ol3xqj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_v9ol3xqj', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:59,573 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:59,573 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:59,573 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:59,577 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c4xfbamc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c4xfbamc', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:59,657 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_837sw7vx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_837sw7vx', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:59,733 - root - DEBUG - Recognized text: 3047
+
+2024-10-23 21:06:59,733 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 89]
+2024-10-23 21:06:59,733 - root - DEBUG - Average confidence: 89.0
+2024-10-23 21:06:59,735 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t4ody9oc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t4ody9oc', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:59,808 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_z4iky620_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_z4iky620', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:06:59,883 - root - DEBUG - Recognized text: 
+2024-10-23 21:06:59,883 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:06:59,883 - root - DEBUG - Average confidence: 0
+2024-10-23 21:06:59,887 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2d9i6whz_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2d9i6whz', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:06:59,964 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8te8uqz2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_8te8uqz2', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:00,042 - root - DEBUG - Recognized text: 3070
+
+2024-10-23 21:07:00,042 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:07:00,042 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:07:00,044 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kq1o83p4_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kq1o83p4', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:00,123 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cgkgnri8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cgkgnri8', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:00,201 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:00,201 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:00,201 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:00,205 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bicmr8nc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bicmr8nc', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:00,292 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1ut423li_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1ut423li', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:00,369 - root - DEBUG - Recognized text: 3022
+
+2024-10-23 21:07:00,369 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 81]
+2024-10-23 21:07:00,369 - root - DEBUG - Average confidence: 81.0
+2024-10-23 21:07:00,372 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mt6cwowa_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_mt6cwowa', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:00,479 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2vyqbi9x_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2vyqbi9x', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:00,555 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:00,555 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:00,555 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:00,559 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ntbdt2qz_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ntbdt2qz', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:00,699 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pmiuerzm_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pmiuerzm', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:00,786 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:00,786 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:00,786 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:00,788 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yimz23dv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_yimz23dv', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:00,872 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1tclx15t_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1tclx15t', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:00,950 - root - DEBUG - Recognized text: 9064
+
+2024-10-23 21:07:00,950 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 71]
+2024-10-23 21:07:00,950 - root - DEBUG - Average confidence: 71.0
+2024-10-23 21:07:00,953 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_o685xppj_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_o685xppj', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:01,036 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0z8of65s_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0z8of65s', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:01,122 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:01,123 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:01,123 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:01,124 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xlpo2plp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xlpo2plp', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:01,228 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6knn3u2j_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_6knn3u2j', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:01,318 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:07:01,318 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 23]
+2024-10-23 21:07:01,318 - root - DEBUG - Average confidence: 23.0
+2024-10-23 21:07:01,321 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:07:01] "POST /upload HTTP/1.1" 200 -
+2024-10-23 21:07:05,026 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:07:05] "GET / HTTP/1.1" 200 -
+2024-10-23 21:07:51,913 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:07:51] "GET / HTTP/1.1" 200 -
+2024-10-23 21:07:57,010 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ce72nhh2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ce72nhh2', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:57,093 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_g48idudn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_g48idudn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:57,174 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:57,174 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:57,174 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:57,175 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9jzyoycw_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9jzyoycw', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:57,254 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cnlwgcut_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cnlwgcut', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:57,336 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:57,336 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:57,336 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:57,338 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_75zpob72_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_75zpob72', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:57,419 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0p4sld_f_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_0p4sld_f', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:57,493 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:57,494 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:57,494 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:57,495 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_oieb9tt3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_oieb9tt3', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:57,579 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pbkg5vci_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_pbkg5vci', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:57,661 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:57,661 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:57,661 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:57,663 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_38twcjy5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_38twcjy5', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:57,760 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3k65416h_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_3k65416h', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:57,854 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:07:57,854 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 47]
+2024-10-23 21:07:57,854 - root - DEBUG - Average confidence: 47.0
+2024-10-23 21:07:57,855 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zmzxs_8v_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zmzxs_8v', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:57,941 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_inyay_uf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_inyay_uf', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:58,019 - root - DEBUG - Recognized text: 3050
+
+2024-10-23 21:07:58,019 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:07:58,019 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:07:58,021 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4ryaned__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4ryaned_', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:58,102 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ypevgulm_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ypevgulm', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:58,184 - root - DEBUG - Recognized text: 3052
+
+2024-10-23 21:07:58,185 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:07:58,185 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:07:58,186 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c90o1a9z_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_c90o1a9z', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:58,292 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_eudo92js_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_eudo92js', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:58,392 - root - DEBUG - Recognized text: 1
+7
+
+2024-10-23 21:07:58,392 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 18, -1, 0]
+2024-10-23 21:07:58,392 - root - DEBUG - Average confidence: 9.0
+2024-10-23 21:07:58,394 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p6746_pu_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_p6746_pu', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:58,480 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cuxercs6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cuxercs6', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:58,560 - root - DEBUG - Recognized text: 3065
+
+2024-10-23 21:07:58,560 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:07:58,561 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:07:58,562 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_34xlps0n_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_34xlps0n', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:58,658 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jkymfqe__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_jkymfqe_', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:58,746 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:58,747 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:58,747 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:58,751 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9q_coigf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_9q_coigf', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:58,832 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cu1fu39l_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_cu1fu39l', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:58,911 - root - DEBUG - Recognized text: 3024
+
+2024-10-23 21:07:58,911 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:07:58,911 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:07:58,913 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_m7a_sfzu_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_m7a_sfzu', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:58,995 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_21bgfe62_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_21bgfe62', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:59,072 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:59,073 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:59,073 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:59,077 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5tzfdacf_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5tzfdacf', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:59,160 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xujhlroq_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_xujhlroq', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:59,238 - root - DEBUG - Recognized text: 
+2024-10-23 21:07:59,238 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:07:59,238 - root - DEBUG - Average confidence: 0
+2024-10-23 21:07:59,239 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1h18ixf9_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1h18ixf9', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:59,323 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tqjb79ux_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_tqjb79ux', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:59,413 - root - DEBUG - Recognized text: 3048
+
+2024-10-23 21:07:59,413 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:07:59,413 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:07:59,418 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7xu7dgyx_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_7xu7dgyx', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:59,508 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hf5k13b6_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hf5k13b6', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:59,593 - root - DEBUG - Recognized text: 3063
+
+2024-10-23 21:07:59,593 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:07:59,593 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:07:59,595 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_syn5xmop_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_syn5xmop', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:59,676 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gmxd38tc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_gmxd38tc', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:59,753 - root - DEBUG - Recognized text: 4
+
+2024-10-23 21:07:59,753 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:07:59,753 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:07:59,758 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ozfb43qy_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_ozfb43qy', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:07:59,848 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_816io6jl_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_816io6jl', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:07:59,929 - root - DEBUG - Recognized text: 3051
+
+2024-10-23 21:07:59,929 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:07:59,929 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:07:59,931 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_amkr8jb2_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_amkr8jb2', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:00,028 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_l4r7fjxa_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_l4r7fjxa', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:00,120 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:00,120 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:00,120 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:00,124 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_idhq1m11_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_idhq1m11', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:00,203 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qo3twlak_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qo3twlak', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:00,279 - root - DEBUG - Recognized text: 3018
+
+2024-10-23 21:08:00,279 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 96]
+2024-10-23 21:08:00,279 - root - DEBUG - Average confidence: 96.0
+2024-10-23 21:08:00,281 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sdaj4gpp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sdaj4gpp', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:00,363 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1wmyenxq_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_1wmyenxq', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:00,443 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:00,443 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:00,443 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:00,448 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lt8xxr99_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_lt8xxr99', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:00,540 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_q17oa_28_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_q17oa_28', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:00,628 - root - DEBUG - Recognized text: 726
+
+2024-10-23 21:08:00,628 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 0]
+2024-10-23 21:08:00,628 - root - DEBUG - Average confidence: 0.0
+2024-10-23 21:08:00,630 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2wrghwyv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_2wrghwyv', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:00,716 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dc13dis7_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_dc13dis7', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:00,805 - root - DEBUG - Recognized text: 3049
+
+2024-10-23 21:08:00,805 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:08:00,805 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:08:00,810 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zx3xkwg8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zx3xkwg8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:00,901 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sym_vmgp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sym_vmgp', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:00,989 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:00,989 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:00,989 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:00,991 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zx6qjpxv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_zx6qjpxv', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:01,080 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_set2xgiv_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_set2xgiv', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:01,166 - root - DEBUG - Recognized text: 3017
+
+2024-10-23 21:08:01,166 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 92]
+2024-10-23 21:08:01,166 - root - DEBUG - Average confidence: 92.0
+2024-10-23 21:08:01,170 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_v8b6cqgc_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_v8b6cqgc', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:01,260 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t9_kd41h_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_t9_kd41h', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:01,344 - root - DEBUG - Recognized text: 3053
+
+2024-10-23 21:08:01,344 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 94]
+2024-10-23 21:08:01,344 - root - DEBUG - Average confidence: 94.0
+2024-10-23 21:08:01,346 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bnqzgjxd_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_bnqzgjxd', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:01,449 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_u9w__c7u_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_u9w__c7u', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:01,556 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:01,556 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:01,556 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:01,559 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_i5jzfxbp_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_i5jzfxbp', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:01,644 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_uq701evo_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_uq701evo', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:01,730 - root - DEBUG - Recognized text: 3047
+
+2024-10-23 21:08:01,730 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 89]
+2024-10-23 21:08:01,730 - root - DEBUG - Average confidence: 89.0
+2024-10-23 21:08:01,733 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5bi1tlqa_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5bi1tlqa', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:01,820 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_z1iuhh2u_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_z1iuhh2u', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:01,899 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:01,899 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:01,899 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:01,903 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rk64t8j5_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rk64t8j5', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:01,990 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_grje017t_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_grje017t', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:02,073 - root - DEBUG - Recognized text: 3070
+
+2024-10-23 21:08:02,073 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 95]
+2024-10-23 21:08:02,073 - root - DEBUG - Average confidence: 95.0
+2024-10-23 21:08:02,075 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_si98o8o8_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_si98o8o8', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:02,156 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_oxabvwb__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_oxabvwb_', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:02,237 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:02,237 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:02,237 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:02,241 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qc6j6eqb_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_qc6j6eqb', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:02,324 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_viygujbn_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_viygujbn', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:02,407 - root - DEBUG - Recognized text: 3022
+
+2024-10-23 21:08:02,407 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 81]
+2024-10-23 21:08:02,407 - root - DEBUG - Average confidence: 81.0
+2024-10-23 21:08:02,409 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4cqmgwvb_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_4cqmgwvb', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:02,494 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5k0_c3fk_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_5k0_c3fk', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:02,578 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:02,578 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:02,578 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:02,583 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hlo2vpnh_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_hlo2vpnh', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:02,664 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_op3_fb9h_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_op3_fb9h', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:02,745 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:02,745 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:02,745 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:02,747 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rj0c8y85_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_rj0c8y85', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:02,837 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sm4nyu_3_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_sm4nyu_3', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:02,925 - root - DEBUG - Recognized text: 9064
+
+2024-10-23 21:08:02,925 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 71]
+2024-10-23 21:08:02,925 - root - DEBUG - Average confidence: 71.0
+2024-10-23 21:08:02,929 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_j9u69o5l_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_j9u69o5l', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:03,016 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kazxwxw__input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_kazxwxw_', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:03,094 - root - DEBUG - Recognized text: 
+2024-10-23 21:08:03,094 - root - DEBUG - Confidence values: [-1]
+2024-10-23 21:08:03,094 - root - DEBUG - Average confidence: 0
+2024-10-23 21:08:03,096 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_s7ui1g5z_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_s7ui1g5z', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789', 'txt']
+2024-10-23 21:08:03,176 - pytesseract - DEBUG - ['D:\\\\OCR\\\\Tesseract-OCR\\\\tesseract.exe', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_36to0r2o_input.PNG', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\tess_36to0r2o', '-c', 'tessedit_create_tsv=1', '--psm', '6', '-c', 'tessedit_char_whitelist=0123456789']
+2024-10-23 21:08:03,255 - root - DEBUG - Recognized text: 7
+
+2024-10-23 21:08:03,256 - root - DEBUG - Confidence values: [-1, -1, -1, -1, 23]
+2024-10-23 21:08:03,256 - root - DEBUG - Average confidence: 23.0
+2024-10-23 21:08:03,257 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:08:03] "POST /upload HTTP/1.1" 200 -
+2024-10-23 21:08:12,081 - werkzeug - INFO - 127.0.0.1 - - [23/Oct/2024 21:08:12] "GET / HTTP/1.1" 200 -

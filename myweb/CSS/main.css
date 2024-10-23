@@ -1,0 +1,103 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: rgb(24,24,24);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    /*margin-top: 50px;*/
+}
+header img {
+    margin-top: 20px; /* 增加图片上方的外边距，向下移动图片 */
+}
+
+/* 顶部链接*/
+.home-link {
+    position: absolute; /* 绝对定位 */
+    top: 10px; /* 距离顶部的距离 */
+    left: 10px; /* 距离左侧的距离 */
+    color: rgb(255, 255, 255); /* 字体颜色 */
+    font-size: 24px; /* 字体大小 */
+    text-decoration: none; /* 去掉下划线 */
+}
+
+.home-link:hover {
+    text-decoration: underline; /* 悬停时显示下划线 */
+}
+
+/* 星星 */
+.star {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%; /* 圆形 */
+    pointer-events: none;
+    opacity: 0; /* 初始不可见 */
+    transition: transform 0.5s, opacity 0.5s; /* 动画效果 */
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+    min-height: 800px;
+}
+
+/* 图片下小字体*/
+.welcome-text {
+    color: rgb(255, 255, 255); /* 字体颜色 */
+    font-size: 24px; /* 字体大小 */
+    margin-top: 10px; /* 距离图片的距离 */
+    margin-left: 0%; /* 向右偏移 */
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5); /* 文本阴影，增加可读性 */
+}
+
+.intro {
+    margin-bottom: 30px;
+}
+
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.feature {
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.feature:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #f1f1f1;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

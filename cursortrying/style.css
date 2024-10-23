@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#game-board {
+    border: 2px solid #333;
+    display: grid;
+    grid-template-columns: repeat(10, auto);
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.game-info {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#next-piece-preview {
+    margin: 10px auto;
+    border: 1px solid #333;
+    width: fit-content;
+}
