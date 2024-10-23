@@ -2,7 +2,7 @@ from flask import Flask, request, redirect, url_for, render_template
 import cv2
 import numpy as np
 import os
-from process import process_image  # 导入 process.py 中的函数
+from process import process_image_data  # 修改导入的函数名
 import logging
 from flask import Flask, request, redirect, url_for, render_template
 import io
@@ -32,34 +32,30 @@ def handle_file_upload():
     if file.filename == '':
         return redirect(request.url)
     
-    # 保存上传的图像
-    file_path = os.path.join(output_dir, 'image.png')
-    file.save(file_path)
+    # 读取上传的图像数据
+    file_bytes = file.read()
+    nparr = np.frombuffer(file_bytes, np.uint8)
+    img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
 
     # 处理图像并获取结果
-    results = process_uploaded_image(file_path)
+    results = process_uploaded_image(img)
 
-    # 渲染结��页面
+    # 渲染结果页面
     return render_template('results.html', results=results)
 
-def process_uploaded_image(file_path):
-    # 创建保存截取矩形的目录
-    os.makedirs(output_dir, exist_ok=True)
-
+def process_uploaded_image(img):
     # 设定长宽比和面积的范围
-    min_aspect_ratio = 1.0  # 最小长宽比
-    max_aspect_ratio = 2.0  # 最大长宽比
-    min_area = 4000        # 最小面积要求
-    max_area = 40000        # 最大面积要求
+    min_aspect_ratio = 1.0
+    max_aspect_ratio = 2.0
+    min_area = 4000
+    max_area = 40000
 
-    # 定义目标尺寸，例如 (目标宽度, 目标高度)
+    # 定义目标尺寸
     target_width = 330
     target_height = 200
 
-    # 读取图像
-    img = cv2.imread(file_path)
     if img is None:
-        return ["未能读取图像，请检查图像路径。"]
+        return ["未能读取图像，请检查图像格式。"]
 
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
@@ -75,25 +71,18 @@ def process_uploaded_image(file_path):
     # 查找轮廓
     contours, _ = cv2.findContours(dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
-    # 用于保存截取的矩形图像的计数器
-    counter = 1
-
-    # 遍历轮廓
+    results = []
     for contour in contours:
-        if len(contour) >= 4:  # 确保有足够的点来计算最小外接矩形
+        if len(contour) >= 4:
             min_rect = cv2.minAreaRect(contour)
-            box = cv2.boxPoints(min_rect)  # 获取矩形的四个角点
-            box = np.int0(box)  # 转换为整数
+            box = cv2.boxPoints(min_rect)
+            box = np.int0(box)
             
-            # 计算长和宽
             width, height = min_rect[1]
-
-            aspect_ratio = max(width, height) / min(width, height)  # 计算长宽比
-            area = width * height  # 计算矩形面积
+            aspect_ratio = max(width, height) / min(width, height)
+            area = width * height
             
-            # 检查长宽比和面积是否在要求范围内
             if (min_aspect_ratio <= aspect_ratio <= max_aspect_ratio) and (min_area <= area <= max_area):
-
                 width, height = height, width
                 dst_points = np.array([[0, 0], [width, 0], [width, height], [0, height]], dtype='float32')
                 matrix = cv2.getPerspectiveTransform(box.astype('float32'), dst_points)
@@ -104,22 +93,11 @@ def process_uploaded_image(file_path):
                 # 拉伸图像到指定尺寸
                 resized_image = cv2.resize(cropped_image, (target_width, target_height))
 
-                # 绘制绿色边框    
-                cv2.drawContours(img, [box], 0, (0, 255, 0), 2)  
-                
-                # 保存截取的图像
-                output_path = os.path.join(output_dir, f'cropped_image_{counter}.png')
-                cv2.imwrite(output_path, resized_image )
-                counter += 1
+                # 直接处理图像数据
+                recognized_text = process_image_data(resized_image)
+                results.append(f"识别结果: {recognized_text}")
 
-    results = []
-    for counter in range(1, counter):
-        cropped_image_path = os.path.join(output_dir, f'cropped_image_{counter}.png')
-        if os.path.exists(cropped_image_path):
-            recognized_text = process_image(cropped_image_path)
-            results.append(f"图像 {counter}: {recognized_text}")
-
-    return results
+    return results if results else ["未识别到有效的数字区域"]
 
 @app.route('/uploaded/<filename>')
 def uploaded_file(filename):
