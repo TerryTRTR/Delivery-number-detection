@@ -2,14 +2,11 @@ from flask import Flask, request, redirect, url_for, render_template
 import cv2
 import numpy as np
 import os
-from process import process_image_data  # 修改导入的函数名
+from process import process_image_data
 import logging
-from flask import Flask, request, redirect, url_for, render_template
 import io
 
 app = Flask(__name__)
-output_dir = 'output_images'
-os.makedirs(output_dir, exist_ok=True)
 
 # 创建一个StringIO对象来捕获日志
 log_capture_string = io.StringIO()
@@ -22,10 +19,12 @@ root.addHandler(ch)
 
 @app.route('/')
 def upload_file():
+    """渲染上传页面"""
     return render_template('upload.html')
 
 @app.route('/upload', methods=['POST'])
 def handle_file_upload():
+    """处理文件上传"""
     if 'file' not in request.files:
         return redirect(request.url)
     file = request.files['file']
@@ -44,6 +43,7 @@ def handle_file_upload():
     return render_template('results.html', results=results)
 
 def process_uploaded_image(img):
+    """处理上传的图像"""
     # 设定长宽比和面积的范围
     min_aspect_ratio = 1.0
     max_aspect_ratio = 2.0
@@ -74,6 +74,7 @@ def process_uploaded_image(img):
     results = []
     for contour in contours:
         if len(contour) >= 4:
+            # 获取最小外接矩形
             min_rect = cv2.minAreaRect(contour)
             box = cv2.boxPoints(min_rect)
             box = np.int0(box)
@@ -82,6 +83,7 @@ def process_uploaded_image(img):
             aspect_ratio = max(width, height) / min(width, height)
             area = width * height
             
+            # 检查长宽比和面积是否在指定范围内
             if (min_aspect_ratio <= aspect_ratio <= max_aspect_ratio) and (min_area <= area <= max_area):
                 width, height = height, width
                 dst_points = np.array([[0, 0], [width, 0], [width, height], [0, height]], dtype='float32')

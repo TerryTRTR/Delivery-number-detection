@@ -1,6 +1,6 @@
-# 图像数字识别系统
+# 快递单号识别系统
 
-这是一个基于 Flask 的 Web 应用程序，用于上传图像并识别其中的四位数字。该系统使用 OpenCV 进行图像处理，并使用 Tesseract OCR 引擎进行数字识别。
+这是一个基于 Flask 的 Web 应用程序，用于上传快递单图像并识别其中的四位数字。该系统使用 OpenCV 进行图像处理，并使用 Tesseract OCR 引擎进行数字识别。
 
 ## 功能特点
 
@@ -21,8 +21,8 @@
 
 1. 克隆此仓库：
    ```
-   git clone https://github.com/yourusername/image-number-recognition.git
-   cd image-number-recognition
+   git clone https://github.com/TerryTRTR/Delivery-number-detection.git
+   cd Delivery-number-detection
    ```
 
 2. 安装所需的 Python 包：
@@ -41,7 +41,7 @@
 
 2. 在浏览器中打开 `http://localhost:5000`
 
-3. 上传一张包含四位数字的图像
+3. 上传一张包含四位数字的快递单图像
 
 4. 查看识别结果
 
@@ -52,7 +52,6 @@
 - `templates/`: HTML 模板文件
   - `upload.html`: 图像上传页面
   - `results.html`: 识别结果显示页面
-- `output_images/`: 存储处理后的图像
 
 ## 注意事项
 

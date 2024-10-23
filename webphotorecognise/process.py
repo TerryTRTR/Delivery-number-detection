@@ -5,15 +5,15 @@ import numpy as np
 import logging
 import re
 
-# 在文件开头设置日志级别
+# 设置日志级别
 logging.basicConfig(filename='app.log', level=logging.DEBUG, 
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 # 设置 Tesseract 可执行文件的路径
 pytesseract.pytesseract.tesseract_cmd = r'D:\\OCR\\Tesseract-OCR\\tesseract.exe'
 
-# 添加新的函数来处理图像数据
 def process_image_data(img):
+    """处理图像数据并识别数字"""
     # 转换为灰度图
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
@@ -29,6 +29,7 @@ def process_image_data(img):
     best_text = ""
     best_confidence = 0
 
+    # 尝试不同角度的识别
     for angle in [0, 180]:
         if angle == 180:
             rotated_image = cv2.rotate(dilated_black, cv2.ROTATE_180)
@@ -61,8 +62,8 @@ def process_image_data(img):
 
     return best_text if best_text else "无法识别"
 
-# 保留原有的 process_image 函数，以便兼容性
 def process_image(img_path):
+    """处理图像文件并识别数字"""
     img = cv2.imread(img_path, cv2.IMREAD_COLOR)
     return process_image_data(img)
 
